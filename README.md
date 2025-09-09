@@ -1,4 +1,4 @@
-# EDA Depresión esttudiantil
+# EDA Depresión estudiantil
 
 Este repositorio contiene un proyecto de análisis exploratorio de datos (EDA) realizado en Jupyter Notebook, centrado en el estudio de la depresión estudiantil. El análisis utiliza el dataset [Student Depression Dataset](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset/data) disponible en Kaggle.
 
